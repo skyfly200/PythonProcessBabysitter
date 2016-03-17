@@ -1,0 +1,8 @@
+<processes>
+	<process name="butt.exe">
+		<path>C:/butt-0.1.14/butt.exe</path>
+	</process>
+	<process name="winamp.exe">
+		<path>C:\PROGRA~2\Winamp\winamp.exe</path>
+	</process>
+</processes>
